@@ -1,8 +1,26 @@
 All Rights Reserved.
 
-This repository contains my modpack configuration files, scripts, and any custom tweaks. 
+This repository contains configuration files, scripts, and custom tweaks for my modpack. 
 All included mods are © their respective authors and may not be redistributed without permission. 
-See individual mod licenses for details.
+
+Included mods (for reference only):
+- BadMobs
+- BiomesOPlenty
+- Embeddium
+- Farmers Delight
+- FirstAid
+- GlitchCore
+- InControl
+- LostCities
+- MobsUnscreen
+- NutritionalBalance
+- PrimalWinter
+- SodiumExtras
+- SodiumOptionsAPI
+- TACZ
+- TerraBlender
+- Terralith
+- ToughAsNails
 
 You may:
 - Use these files for personal use.
@@ -12,3 +30,5 @@ You may NOT:
 - Redistribute the mods included in this repository.
 - Claim the included mods as your own.
 - Sell or monetize this repository or its contents without permission.
+
+Please refer to each mod's original license for specific usage rules.
